@@ -1,4 +1,15 @@
 backup/*
 package/*
 temp/*
+progress/compile_smali_files
+progress/concat_build_prop
+progress/copy_override_files
+progress/generate_apk_certs
+progress/generate_filesystem_config
+progress/generate_link_for_system_files
+progress/generate_ota_package
+progress/make_boot_img
+progress/prepare_patched_smali_files
+progress/prepare_system_files
+progress/prepare_target_template
 *.zip
