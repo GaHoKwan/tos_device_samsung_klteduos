@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reboot">重启手机</string>
+    <string name="reboot_recovery">恢复模式</string>
+    <string name="reboot_download">刷机模式</string>
+    <string name="quickpanel_wifi_ap_text">Wifi热点</string>
+    <string name="quickpanel_dc_text">数据</string>
+    <string name="quickpanel_network_mode_text">网络模式</string>
+    <string name="quickpanel_sound_text">声音</string>
+    <string name="quickpanel_sound_vibration_text">声音/震动</string>
+    <string name="quickpanel_silent_text">静音</string>
+    <string name="quickpanel_vibration_text">震动</string>
+    <string name="quickpanel_rotation_text">旋转</string>
+    <string name="quickpanel_bluetooth_text">蓝牙</string>
+    <string name="quickpanel_autosync_text">同步</string>
+    <string name="quickpanel_brightness_text">亮度</string>
+    <string name="quickpanel_screen_timeout_text">屏幕超时</string>
+    <string name="quickpanel_lockscreen_text">锁屏开关</string>
+    <string name="quickpanel_lockscreen_action_text">一键锁屏</string>
+    <string name="quickpanel_airplane_text">飞行</string>
+    <string name="quickpanel_flashlight_text">手电筒</string>
+    <string name="quickpanel_reboot_text">重启</string>
+    <string name="quickpanel_shutdown_text">关机</string>
+    <string name="quickpanel_dormant_text">阻止模式</string>
+    <string name="quickpanel_powersave_text">省电模式</string>
+    <string name="quickpanel_driving_text">驾驶模式</string>
+    <string name="quickpanel_smartstay_text">智能休眠</string>
+    <string name="quickpanel_multiwindow_text">多窗口模式</string>
+    <string name="quickpanel_navbar_text">导航栏</string>
+    <string name="quickpanel_reading_text">阅读模式</string>
+    <string name="quickpanel_air_motion_text">手势感应</string>
+    <string name="quickpanel_air_view_text">悬浮预览</string>
+    <string name="quickpanel_smart_pause_text">智能暂停</string>
+    <string name="quickpanel_smart_scroll_text">智能滚动</string>
+    <string name="airplane_mode">正处于飞行模式</string>
+    <string name="shutdown_confirm">您的手机会关机。</string>
+    <string name="screen_timeout_seconds">屏幕超时设置为: %d 秒</string>
+    <string name="screen_timeout_minutes">屏幕超时设置为: %d 分钟</string>
+    <string name="screen_timeout_hours">屏幕超时设置为: %d 小时</string>
+    <string name="brightness_auto">自动</string>
+    <string name="global_action_reboot">重启</string>
+    <string name="global_action_screenshot">屏幕截图</string>
+    <string name="global_actions_toggle_navbar_hide">隐藏导航栏</string>
+    <string name="global_actions_toggle_navbar_show">显示导航栏</string>
+    <string name="kill_application_toast">%s 已退出</string>
+    <string name="cpu_idle">空闲</string>
+</resources>

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: yqgOzV8WnHihQ4jfjlqS2EBzQNM=
+
+Name: res/xml/offline.xml
+SHA1-Digest: wTqQk+aW2CC0hHPPxS6utdjSPqU=
+
+Name: resources.arsc
+SHA1-Digest: sUmmnQVQee7AjsOGoEx/jbQVXAU=
+
+Name: classes.dex
+SHA1-Digest: QN9vtwvYp3ZOkfm6NR5AQCUL65k=
+
+Name: res/xml/cfg.xml
+SHA1-Digest: ThK8PSXnyD8R+A9f37rh9dF4jto=
+

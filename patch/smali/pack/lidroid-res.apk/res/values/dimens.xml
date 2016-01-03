@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="power_button_text_height">30.0dip</dimen>
+    <dimen name="killer_meminfo_txt_size">14.0sp</dimen>
+</resources>

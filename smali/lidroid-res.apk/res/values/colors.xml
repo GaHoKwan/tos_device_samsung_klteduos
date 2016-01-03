@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="power_widget_button_text">@android:color/white</color>
+    <color name="killer_meminfo_background">#ff385259</color>
+    <color name="killer_meminfo_front">#ff23b5e5</color>
+    <color name="killer_meminfo_full_front">#ffff5400</color>
+    <color name="killer_meminfo_txt">#ffffffff</color>
+</resources>

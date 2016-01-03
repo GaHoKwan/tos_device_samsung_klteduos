@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.lidroid.systemui.killer.MemInfoView android:id="@id/killer_mem_info" android:layout_width="20.0dip" android:layout_height="24.0dip" />
+    <ImageButton android:id="@id/killer_clean_button" android:background="@null" android:layout_width="wrap_content" android:layout_height="28.0dip" android:src="@drawable/killer_clean" android:scaleType="fitCenter" />
+</LinearLayout>

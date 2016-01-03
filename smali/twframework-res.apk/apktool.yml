@@ -1,0 +1,17 @@
+version: 2.0.0
+apkFileName: twframework-res.apk
+isFrameworkApk: true
+usesFramework:
+  ids:
+  - 1
+  tag: TPS_kltechnduo
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '19'
+packageInfo:
+  forced-package-id: '2'
+versionInfo:
+  versionCode: '19'
+  versionName: 4.4.2-G9008WZMU1ANEH
+compressionType: false
+sharedLibrary: false

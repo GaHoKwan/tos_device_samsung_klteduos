@@ -1,0 +1,17 @@
+version: 2.0.0
+apkFileName: lidroid-res.apk
+isFrameworkApk: true
+usesFramework:
+  ids:
+  - 1
+  tag: TPS_kltechnduo
+sdkInfo:
+  minSdkVersion: '18'
+  targetSdkVersion: '18'
+packageInfo:
+  forced-package-id: '5'
+versionInfo:
+  versionCode: '18'
+  versionName: 4.3-eng.lidroid.20131031.105320
+compressionType: false
+sharedLibrary: false

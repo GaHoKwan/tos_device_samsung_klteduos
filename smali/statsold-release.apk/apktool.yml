@@ -1,0 +1,16 @@
+version: 2.0.0
+apkFileName: statsold-release.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: TPS_kltechnduo
+sdkInfo:
+  minSdkVersion: '4'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '14'
+  versionName: '1.2'
+compressionType: false
+sharedLibrary: false

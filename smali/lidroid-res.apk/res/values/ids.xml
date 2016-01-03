@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="seek_bar">false</item>
+    <item type="id" name="auto">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="home">false</item>
+    <item type="id" name="recents">false</item>
+    <item type="id" name="menu">false</item>
+    <item type="id" name="killer_mem_info">false</item>
+    <item type="id" name="killer_clean_button">false</item>
+    <item type="id" name="power_widget_button">false</item>
+    <item type="id" name="power_widget_button_image">false</item>
+    <item type="id" name="power_widget_button_text">false</item>
+    <item type="id" name="power_widget_button_indic">false</item>
+</resources>

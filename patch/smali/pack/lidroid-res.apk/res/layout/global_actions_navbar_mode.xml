@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/back" android:background="?android:actionBarItemBackground" android:focusable="true" android:layout_width="64.0dip" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:background="@drawable/silent_mode_indicator" android:duplicateParentState="true" android:layout_width="48.0dip" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="6.0dip" android:src="@drawable/ic_lock_back" android:scaleType="center" />
+    </LinearLayout>
+    <View android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <LinearLayout android:id="@id/home" android:background="?android:actionBarItemBackground" android:focusable="true" android:layout_width="64.0dip" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:background="@drawable/silent_mode_indicator" android:duplicateParentState="true" android:layout_width="48.0dip" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="6.0dip" android:src="@drawable/ic_lock_home" android:scaleType="center" />
+    </LinearLayout>
+    <View android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <LinearLayout android:id="@id/recents" android:background="?android:actionBarItemBackground" android:focusable="true" android:layout_width="64.0dip" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:background="@drawable/silent_mode_indicator" android:duplicateParentState="true" android:layout_width="48.0dip" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="6.0dip" android:src="@drawable/ic_lock_recents" android:scaleType="center" />
+    </LinearLayout>
+    <View android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <LinearLayout android:id="@id/menu" android:background="?android:actionBarItemBackground" android:focusable="true" android:layout_width="64.0dip" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:background="@drawable/silent_mode_indicator" android:duplicateParentState="true" android:layout_width="48.0dip" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="6.0dip" android:src="@drawable/ic_lock_menu" android:scaleType="center" />
+    </LinearLayout>
+</LinearLayout>

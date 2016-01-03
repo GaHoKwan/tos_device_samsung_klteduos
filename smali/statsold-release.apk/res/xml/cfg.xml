@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apps>
+    <app id="03ce06e2-d123-4dba-9442-092d1ce3ced1" name="shaft.android" code="989909ce40ca0160923c1ba108fb4895" />
+    <app id="16076988-8223-4962-96bb-d0938ae871c4" name="com.tadu.android" code="d141d829f4312f80450a45f9e3b1b761" />
+    <app id="187efa1a-6599-4296-af93-488a1db0b863" name="shaft.android" code="ae83ffae642e9f601f2a85ad1a4ddbc7" />
+    <app id="189d72c7-ace1-441f-b8aa-5e63f92b896d" name="com.UCMobile" code="04a994a6b06ab9ccbd7c1f0a7cd95084" />
+    <app id="1a573094-de03-480c-87b2-497d11f14246" name="com.UCMobile" code="b5eaa25db2a8dd5c2f41773447bf5c20" />
+    <app id="230aeed8-9b63-4465-9503-9cf51347275e" name="com.baidu.appsearch" code="14fe47e3f3a2f43c56308354607b9325" />
+    <app id="2351eec6-8fb5-4b9e-995e-2b380f4d3e12" name="com.oupeng.mini.android" code="89c47d255c406d6c4e27a064670e4bef" />
+    <app id="24c60049-e58b-4f95-a857-1d9597cf9f91" name="com.baidu.appsearch" code="4ff6f7db62561e13b0cb67fea09cfa1f" />
+    <app id="3e1e3712-31fc-4c4b-be3a-ff5ab49da24e" name="com.baidu.searchbox" code="b6793a17ea10b1e11fc3ea6df35e9aca" />
+    <app id="511e3120-2c37-40d5-9df1-fb1364e90e2e" name="com.baidu.appsearch" code="c067d57a99ac121b1d71755d64589a69" />
+    <app id="6ca87223-3a0d-4b3e-8908-fd4a7a96b85b" name="com.tencent.mtt" code="51f8887a5eaacd180c7ebe16e5c16128" />
+    <app id="9d7fad6a-ac7a-4802-a29b-9b0cc8de4cc9" name="com.oupeng.mini.android" code="7fbab86615f7503cf5bc8b62a0692056" />
+    <app id="a59caf94-410b-48ba-b289-e124b8e15519" name="com.tencent.qqpimsecure" code="7eb01e5857279b04a2cc6462e556adef" />
+    <app id="c22fdce0-e4a3-4a46-a49a-9cd01cfbe7da" name="com.tencent.qqpimsecure" code="c9b531c91f131290e64e725d60c526e0" />
+    <app id="c542e0a8-e84d-4629-b90c-f9671778117d" name="com.tencent.mtt" code="3b7fdccf803714094a4c48bcf1939645" />
+    <app id="ec263916-9f38-417f-b3c2-c6a69a0a01a9" name="com.baidu.searchbox" code="b365bf8b369b56f5e3b99822eb4681ea" />
+    <app id="f3ebb9f7-3c67-46c3-b1b8-6adb2180d918" name="com.tencent.qqpimsecure" code="2e2bf0903b984eae116eccb2ba020acf" />
+</apps>
